@@ -1,0 +1,46 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 14, 2025 - 08:13:22
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10413/
+Quit the server with CTRL-BREAK.
+
+[14/Jan/2025 08:13:23] "GET /ScriptRepository/ HTTP/1.1" 200 46324
+[14/Jan/2025 08:13:23] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 304 0
+[14/Jan/2025 08:13:23] "GET /ScriptRepository/media/default.jpg HTTP/1.1" 200 9280
+[14/Jan/2025 08:13:23] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 304 0
+[14/Jan/2025 08:21:05] "GET /ScriptRepository/ HTTP/1.1" 200 46324
+[14/Jan/2025 08:21:12] "GET /ScriptRepository/admin HTTP/1.1" 301 0
+[14/Jan/2025 08:21:12] "GET /ScriptRepository/admin/ HTTP/1.1" 302 0
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 200 4368
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/static/admin/css/login.css HTTP/1.1" 200 951
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/static/admin/js/theme.js HTTP/1.1" 200 1653
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/static/admin/css/responsive.css HTTP/1.1" 200 17972
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/static/admin/css/base.css HTTP/1.1" 200 22092
+[14/Jan/2025 08:21:13] "GET /ScriptRepository/static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[14/Jan/2025 08:21:29] "POST /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 302 0
+[14/Jan/2025 08:21:29] "GET /ScriptRepository/admin/ HTTP/1.1" 200 8727
+[14/Jan/2025 08:21:29] "GET /ScriptRepository/static/admin/css/dashboard.css HTTP/1.1" 200 441
+[14/Jan/2025 08:21:30] "GET /ScriptRepository/static/admin/img/icon-addlink.svg HTTP/1.1" 200 331
+[14/Jan/2025 08:21:30] "GET /ScriptRepository/static/admin/img/icon-changelink.svg HTTP/1.1" 200 380
+[14/Jan/2025 08:21:30] "GET /ScriptRepository/static/admin/img/icon-deletelink.svg HTTP/1.1" 200 392
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/admin/blog/post/ HTTP/1.1" 200 17167
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/css/changelists.css HTTP/1.1" 200 6878
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/jquery.init.js HTTP/1.1" 200 347
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/core.js HTTP/1.1" 200 6208
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/actions.js HTTP/1.1" 200 8076
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 200 9097
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/prepopulate.js HTTP/1.1" 200 1531
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/vendor/jquery/jquery.min.js HTTP/1.1" 200 87533
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/admin/jsi18n/ HTTP/1.1" 200 3343
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/urlify.js HTTP/1.1" 200 7887
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/vendor/xregexp/xregexp.min.js HTTP/1.1" 200 163184
+[14/Jan/2025 08:21:45] "GET /ScriptRepository/static/admin/js/filters.js HTTP/1.1" 200 978
+[14/Jan/2025 08:21:46] "GET /ScriptRepository/static/admin/img/tooltag-add.svg HTTP/1.1" 200 331
+[14/Jan/2025 08:21:50] "GET /ScriptRepository/admin/ HTTP/1.1" 200 8727
+[14/Jan/2025 08:21:54] "GET /ScriptRepository/ HTTP/1.1" 200 46452
+[14/Jan/2025 08:21:59] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[14/Jan/2025 08:22:06] "GET /ScriptRepository/ HTTP/1.1" 200 46324

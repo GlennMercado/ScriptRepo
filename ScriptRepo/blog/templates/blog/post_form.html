@@ -1,0 +1,39 @@
+{% load static %}
+<!-- Modal -->
+<div class="modal fade" id="newEntryModal" tabindex="-1" aria-labelledby="newEntryModalLabel" aria-hidden="true">
+    <div class="modal-dialog">
+        <div class="modal-content">
+            <div class="modal-header">
+                <h5 class="modal-title" id="newEntryModalLabel">New Entry</h5>
+                <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+            </div>
+            <div class="modal-body">
+                <form method="POST" action="{% url 'post-create' %}">
+                    {% csrf_token %}
+                    <fieldset class="form-group">
+                        <!-- Title Field -->
+                        <div class="form-group m-2">
+                            <label for="id_title">Title of script</label>
+                            <input type="text" name="title" class="form-control" id="id_title" required>
+                        </div>
+
+                        <!-- Content Field -->
+                        <div class="form-group m-2">
+                            <label for="id_content"><i class="fa-solid fa-code"></i> Script</label>
+                            <textarea name="content" class="form-control" id="id_content" rows="5" required></textarea>
+                        </div>
+
+                        <!-- Sample Template Field -->
+                        <div class="form-group m-2">
+                            <label for="id_Sample_Template"><i class="fa-solid fa-circle-info"></i> Sample Usage</label>
+                            <textarea name="Sample_Template" class="form-control" id="id_Sample_Template" rows="3"></textarea>
+                        </div>
+                    </fieldset>
+                    <div class="form-group m-2">
+                        <button class="btn btn-dark w-100" type="submit">Submit</button>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+</div>

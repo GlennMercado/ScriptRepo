@@ -1,0 +1,36 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 21, 2024 - 20:35:16
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:25942/
+Quit the server with CTRL-BREAK.
+
+[21/Nov/2024 20:35:16] "GET /ScriptRepository/ HTTP/1.1" 200 6389
+[21/Nov/2024 20:35:16] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 304 0
+[21/Nov/2024 20:35:16] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 304 0
+[21/Nov/2024 20:35:16] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 304 0
+[21/Nov/2024 20:35:20] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[21/Nov/2024 20:35:22] "GET /ScriptRepository/password-reset/ HTTP/1.1" 200 4852
+[21/Nov/2024 20:35:35] "POST /ScriptRepository/password-reset/ HTTP/1.1" 302 0
+[21/Nov/2024 20:35:35] "GET /ScriptRepository/password-reset/done/ HTTP/1.1" 200 4125
+[21/Nov/2024 20:36:30] "GET /ScriptRepository/password-reset-confirm/MTQ/cguzv9-ee153ddc28140f159199862d077ae918/ HTTP/1.1" 302 0
+[21/Nov/2024 20:36:31] "GET /ScriptRepository/password-reset-confirm/MTQ/set-password/ HTTP/1.1" 200 5565
+[21/Nov/2024 20:36:31] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 304 0
+[21/Nov/2024 20:36:31] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 304 0
+[21/Nov/2024 20:36:46] "GET /ScriptRepository/password-reset-confirm/MTQ/cguzv9-ee153ddc28140f159199862d077ae918/ HTTP/1.1" 302 0
+[21/Nov/2024 20:36:47] "GET /ScriptRepository/password-reset-confirm/MTQ/set-password/ HTTP/1.1" 200 5565
+[21/Nov/2024 20:37:07] "POST /ScriptRepository/password-reset-confirm/MTQ/set-password/ HTTP/1.1" 302 0
+[21/Nov/2024 20:37:07] "GET /ScriptRepository/password-reset-complete HTTP/1.1" 200 4141
+[21/Nov/2024 20:37:12] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[21/Nov/2024 20:37:27] "POST /ScriptRepository/login/ HTTP/1.1" 200 5708
+[21/Nov/2024 20:37:33] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[21/Nov/2024 20:37:33] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[21/Nov/2024 20:37:36] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6225
+[21/Nov/2024 20:37:41] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[21/Nov/2024 20:37:42] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[21/Nov/2024 20:37:43] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6225
+[21/Nov/2024 20:37:47] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[21/Nov/2024 20:37:55] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[21/Nov/2024 20:37:57] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[21/Nov/2024 20:38:02] "GET /ScriptRepository/register/ HTTP/1.1" 200 6515

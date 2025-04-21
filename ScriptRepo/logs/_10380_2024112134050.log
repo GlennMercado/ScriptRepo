@@ -1,0 +1,15 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 20, 2024 - 22:40:52
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:30546/
+Quit the server with CTRL-BREAK.
+
+[20/Nov/2024 22:40:52] "GET /ScriptRepository/ HTTP/1.1" 200 6389
+[20/Nov/2024 22:41:06] "GET /ScriptRepository/ HTTP/1.1" 200 6389
+[20/Nov/2024 22:41:40] "GET /ScriptRepository/ HTTP/1.1" 200 6389
+[20/Nov/2024 22:41:46] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[20/Nov/2024 22:41:49] "GET /ScriptRepository/password-reset/ HTTP/1.1" 200 4852
+[20/Nov/2024 22:41:57] "POST /ScriptRepository/password-reset/ HTTP/1.1" 302 0
+[20/Nov/2024 22:41:57] "GET /ScriptRepository/password-reset/done/ HTTP/1.1" 200 4125

@@ -1,0 +1,265 @@
+[14/Nov/2024 01:01:32] "GET /ScriptRepository/ HTTP/1.1" 200 4935
+[14/Nov/2024 01:01:32] "GET /ScriptRepository/media/profile_pics/avatar_7NeMSla.png HTTP/1.1" 404 179
+[14/Nov/2024 01:01:35] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[14/Nov/2024 01:01:37] "GET /ScriptRepository/ HTTP/1.1" 200 4935
+[14/Nov/2024 01:01:37] "GET /ScriptRepository/media/profile_pics/avatar_7NeMSla.png HTTP/1.1" 404 179
+[14/Nov/2024 01:01:38] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6175
+[14/Nov/2024 01:01:38] "GET /ScriptRepository/media/profile_pics/avatar_7NeMSla.png HTTP/1.1" 404 179
+[14/Nov/2024 01:01:44] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[14/Nov/2024 01:01:44] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6364
+[14/Nov/2024 01:01:44] "GET /ScriptRepository/media/profile_pics/avatar_1xy8dhd.png HTTP/1.1" 404 179
+[14/Nov/2024 01:01:47] "GET /ScriptRepository/ HTTP/1.1" 200 4935
+[14/Nov/2024 01:01:47] "GET /ScriptRepository/media/profile_pics/avatar_1xy8dhd.png HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:01:32
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+[14/Nov/2024 01:04:06] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 01:04:07] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 01:04:08] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 01:04:08] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 01:04:08] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 01:04:08] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 01:04:09] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6141
+[14/Nov/2024 01:04:20] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[14/Nov/2024 01:04:20] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6330
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:03:59
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+[14/Nov/2024 01:06:16] "GET /ScriptRepository/ HTTP/1.1" 200 4809
+[14/Nov/2024 01:06:16] "GET /ScriptRepository/media/profile_pics/ironman_NGxiomO.jfif HTTP/1.1" 404 179
+[14/Nov/2024 01:06:17] "GET /ScriptRepository/ HTTP/1.1" 200 4809
+[14/Nov/2024 01:06:17] "GET /ScriptRepository/media/profile_pics/ironman_NGxiomO.jfif HTTP/1.1" 404 179
+[14/Nov/2024 01:06:19] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 01:06:32] "POST /ScriptRepository/login/ HTTP/1.1" 500 145
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/admin/ HTTP/1.1" 302 0
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 200 4368
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/static/admin/css/base.css HTTP/1.1" 404 179
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/static/admin/css/login.css HTTP/1.1" 404 179
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/static/admin/js/theme.js HTTP/1.1" 404 179
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[14/Nov/2024 01:07:29] "GET /ScriptRepository/static/admin/css/responsive.css HTTP/1.1" 404 179
+[14/Nov/2024 01:07:39] "POST /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 500 145
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:06:03
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:08:32
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:12:55
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:13:56
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:18:22
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:21:32
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:21:34
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:22:28
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:22:39
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\urls.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:22:59
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+Not Found: /ScriptRepository/polls/
+[14/Nov/2024 01:26:56] "GET /ScriptRepository/polls/ HTTP/1.1" 404 4974
+[14/Nov/2024 01:26:58] "GET /ScriptRepository/ HTTP/1.1" 200 5605
+[14/Nov/2024 01:26:59] "GET /ScriptRepository/media/profile_pics/avatar_pVMDqXr.png HTTP/1.1" 200 2423
+[14/Nov/2024 01:27:01] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 01:27:11] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[14/Nov/2024 01:27:11] "GET /ScriptRepository/ HTTP/1.1" 200 5733
+[14/Nov/2024 01:27:13] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[14/Nov/2024 01:27:18] "GET /ScriptRepository/ HTTP/1.1" 200 5605
+[14/Nov/2024 01:27:22] "GET /ScriptRepository/ HTTP/1.1" 200 5605
+[14/Nov/2024 01:27:24] "GET /ScriptRepository/about/ HTTP/1.1" 200 4024
+[14/Nov/2024 01:27:25] "GET /ScriptRepository/ HTTP/1.1" 200 5605
+[14/Nov/2024 01:27:26] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 01:27:38] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[14/Nov/2024 01:27:39] "GET /ScriptRepository/ HTTP/1.1" 200 5733
+[14/Nov/2024 01:27:40] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6157
+[14/Nov/2024 01:27:41] "GET /ScriptRepository/media/profile_pics/ironman.jfif HTTP/1.1" 304 0
+[14/Nov/2024 01:27:55] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[14/Nov/2024 01:27:56] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6364
+[14/Nov/2024 01:27:56] "GET /ScriptRepository/media/profile_pics/avatar_T6ETdv7.png HTTP/1.1" 200 2423
+[14/Nov/2024 01:27:59] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[14/Nov/2024 01:28:00] "GET /ScriptRepository/ HTTP/1.1" 200 5733
+[14/Nov/2024 01:28:01] "GET /ScriptRepository/about/ HTTP/1.1" 200 4152
+[14/Nov/2024 01:28:02] "GET /ScriptRepository/ HTTP/1.1" 200 5733
+[14/Nov/2024 01:28:05] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[14/Nov/2024 01:28:06] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 01:28:11] "GET /ScriptRepository/ HTTP/1.1" 200 5605
+Not Found: /ScriptRepository/Post1
+[14/Nov/2024 01:28:16] "GET /ScriptRepository/Post1 HTTP/1.1" 404 4971
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:23:32
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+[14/Nov/2024 01:38:29] "GET /ScriptRepository/admin/ HTTP/1.1" 302 0
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 200 4368
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/static/admin/css/base.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/static/admin/css/nav_sidebar.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/static/admin/js/nav_sidebar.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/static/admin/css/login.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/static/admin/css/responsive.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/static/admin/js/theme.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:30] "GET /ScriptRepository/static/admin/css/dark_mode.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:39] "POST /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 302 0
+[14/Nov/2024 01:38:39] "GET /ScriptRepository/admin/ HTTP/1.1" 200 7253
+[14/Nov/2024 01:38:40] "GET /ScriptRepository/static/admin/css/dashboard.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:40] "GET /ScriptRepository/static/admin/img/icon-addlink.svg HTTP/1.1" 304 0
+[14/Nov/2024 01:38:40] "GET /ScriptRepository/static/admin/img/icon-changelink.svg HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/admin/auth/user/ HTTP/1.1" 200 13808
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/css/changelists.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/actions.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/core.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/vendor/jquery/jquery.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/urlify.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/jquery.init.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/admin/RelatedObjectLookups.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/prepopulate.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/static/admin/js/vendor/xregexp/xregexp.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:42] "GET /ScriptRepository/admin/jsi18n/ HTTP/1.1" 200 3343
+[14/Nov/2024 01:38:43] "GET /ScriptRepository/static/admin/img/icon-yes.svg HTTP/1.1" 304 0
+[14/Nov/2024 01:38:43] "GET /ScriptRepository/static/admin/img/icon-no.svg HTTP/1.1" 304 0
+[14/Nov/2024 01:38:43] "GET /ScriptRepository/static/admin/js/filters.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:43] "GET /ScriptRepository/static/admin/img/search.svg HTTP/1.1" 200 458
+[14/Nov/2024 01:38:43] "GET /ScriptRepository/static/admin/img/tooltag-add.svg HTTP/1.1" 304 0
+[14/Nov/2024 01:38:43] "GET /ScriptRepository/static/admin/img/sorting-icons.svg HTTP/1.1" 200 1097
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/admin/auth/user/13/change/ HTTP/1.1" 200 22078
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/static/admin/js/calendar.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/static/admin/js/admin/DateTimeShortcuts.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/static/admin/css/forms.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/admin/jsi18n/ HTTP/1.1" 200 3343
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/static/admin/js/SelectBox.js HTTP/1.1" 200 4530
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/static/admin/js/SelectFilter2.js HTTP/1.1" 200 15292
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/static/admin/js/prepopulate_init.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:47] "GET /ScriptRepository/static/admin/css/widgets.css HTTP/1.1" 304 0
+[14/Nov/2024 01:38:48] "GET /ScriptRepository/static/admin/js/change_form.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:48] "GET /ScriptRepository/static/admin/img/icon-unknown-alt.svg HTTP/1.1" 200 655
+[14/Nov/2024 01:38:48] "GET /ScriptRepository/static/admin/img/icon-clock.svg HTTP/1.1" 200 677
+[14/Nov/2024 01:38:48] "GET /ScriptRepository/static/admin/img/selector-icons.svg HTTP/1.1" 200 3291
+[14/Nov/2024 01:38:48] "GET /ScriptRepository/static/admin/img/icon-unknown.svg HTTP/1.1" 200 655
+[14/Nov/2024 01:38:48] "GET /ScriptRepository/static/admin/img/icon-calendar.svg HTTP/1.1" 200 1086
+[14/Nov/2024 01:38:50] "GET /ScriptRepository/admin/auth/user/13/delete/ HTTP/1.1" 200 10077
+[14/Nov/2024 01:38:50] "GET /ScriptRepository/static/admin/js/cancel.js HTTP/1.1" 304 0
+[14/Nov/2024 01:38:53] "POST /ScriptRepository/admin/auth/user/13/delete/ HTTP/1.1" 302 0
+[14/Nov/2024 01:38:54] "GET /ScriptRepository/admin/auth/user/ HTTP/1.1" 200 13534
+[14/Nov/2024 01:38:54] "GET /ScriptRepository/admin/jsi18n/ HTTP/1.1" 200 3343
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 01:36:39
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16397/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+[14/Nov/2024 01:40:03] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[14/Nov/2024 01:40:07] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[14/Nov/2024 01:40:16] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[14/Nov/2024 01:40:17] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 01:40:26] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[14/Nov/2024 01:40:26] "GET /ScriptRepository/ HTTP/1.1" 200 4147
+[14/Nov/2024 01:40:29] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[14/Nov/2024 01:40:32] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 01:40:41] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[14/Nov/2024 01:40:41] "GET /ScriptRepository/ HTTP/1.1" 200 4147
+[14/Nov/2024 01:40:44] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6175
+[14/Nov/2024 01:40:44] "GET /ScriptRepository/media/profile_pics/avatar_T6ETdv7.png HTTP/1.1" 304 0
+[14/Nov/2024 01:40:47] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[14/Nov/2024 01:40:59] "POST /ScriptRepository/post/new/ HTTP/1.1" 302 0
+[14/Nov/2024 01:40:59] "GET /ScriptRepository/post/55/ HTTP/1.1" 200 5115
+[14/Nov/2024 01:41:02] "GET /ScriptRepository/ HTTP/1.1" 200 4993
+[14/Nov/2024 01:41:09] "GET /ScriptRepository/ HTTP/1.1" 200 4993
+[14/Nov/2024 01:41:11] "GET /ScriptRepository/ HTTP/1.1" 200 4993
+[14/Nov/2024 01:41:14] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[14/Nov/2024 01:42:34] "GET /ScriptRepository/ HTTP/1.1" 200 4865
+[14/Nov/2024 01:42:35] "GET /ScriptRepository/media/profile_pics/avatar_T6ETdv7.png HTTP/1.1" 304 0

@@ -1,0 +1,30 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 08, 2025 - 19:59:18
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:28717/
+Quit the server with CTRL-BREAK.
+
+[08/Jan/2025 19:59:18] "GET /ScriptRepository/ HTTP/1.1" 200 46316
+[08/Jan/2025 19:59:18] "GET /ScriptRepository/media/default.jpg HTTP/1.1" 304 0
+[08/Jan/2025 19:59:18] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 304 0
+[08/Jan/2025 19:59:18] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 304 0
+[08/Jan/2025 20:18:06] "GET /ScriptRepository/ HTTP/1.1" 200 46316
+[08/Jan/2025 20:18:41] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[08/Jan/2025 20:18:49] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[08/Jan/2025 20:18:50] "GET /ScriptRepository/ HTTP/1.1" 200 46444
+[08/Jan/2025 20:18:57] "GET /ScriptRepository/post/67/ HTTP/1.1" 200 12018
+[08/Jan/2025 20:19:12] "GET /ScriptRepository/post/67/update/ HTTP/1.1" 200 9058
+[08/Jan/2025 20:19:26] "POST /ScriptRepository/post/67/update/ HTTP/1.1" 302 0
+[08/Jan/2025 20:19:27] "GET /ScriptRepository/post/67/ HTTP/1.1" 200 12022
+[08/Jan/2025 20:19:29] "GET /ScriptRepository/ HTTP/1.1" 200 46448
+[08/Jan/2025 20:19:49] "GET /ScriptRepository/post/67/ HTTP/1.1" 200 12022
+[08/Jan/2025 20:20:01] "GET /ScriptRepository/post/67/update/ HTTP/1.1" 200 9060
+[08/Jan/2025 20:20:20] "POST /ScriptRepository/post/67/update/ HTTP/1.1" 302 0
+[08/Jan/2025 20:20:21] "GET /ScriptRepository/post/67/ HTTP/1.1" 200 12026
+[08/Jan/2025 20:20:23] "GET /ScriptRepository/ HTTP/1.1" 200 46452
+[08/Jan/2025 20:20:41] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[08/Jan/2025 20:20:43] "GET /ScriptRepository/ HTTP/1.1" 200 46324
+[08/Jan/2025 20:20:45] "GET /ScriptRepository/register/ HTTP/1.1" 200 6515
+[08/Jan/2025 20:20:59] "GET /ScriptRepository/ HTTP/1.1" 200 46324

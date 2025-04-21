@@ -1,0 +1,36 @@
+[14/Nov/2024 00:51:41] "GET /ScriptRepository/media HTTP/1.1" 404 179
+[14/Nov/2024 00:51:55] "GET /ScriptRepository/ HTTP/1.1" 200 4807
+[14/Nov/2024 00:51:55] "GET /ScriptRepository/media/profile_pics/avatar_dykA8Yk.png HTTP/1.1" 404 179
+[14/Nov/2024 00:52:02] "GET /ScriptRepository/ HTTP/1.1" 200 4807
+[14/Nov/2024 00:52:02] "GET /ScriptRepository/media/profile_pics/avatar_dykA8Yk.png HTTP/1.1" 404 179
+[14/Nov/2024 00:52:05] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 00:52:16] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[14/Nov/2024 00:52:16] "GET /ScriptRepository/ HTTP/1.1" 200 4935
+[14/Nov/2024 00:52:16] "GET /ScriptRepository/media/profile_pics/avatar_dykA8Yk.png HTTP/1.1" 404 179
+[14/Nov/2024 00:52:19] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6175
+[14/Nov/2024 00:52:19] "GET /ScriptRepository/media/profile_pics/avatar_dykA8Yk.png HTTP/1.1" 404 179
+[14/Nov/2024 00:52:25] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[14/Nov/2024 00:52:25] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6364
+[14/Nov/2024 00:52:25] "GET /ScriptRepository/media/profile_pics/avatar_3zYTDH0.png HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 00:51:40
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:14467/
+Quit the server with CTRL-BREAK.
+
+[14/Nov/2024 00:52:59] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 00:53:00] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+[14/Nov/2024 00:53:12] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6141
+[14/Nov/2024 00:53:18] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[14/Nov/2024 00:53:18] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6330
+[14/Nov/2024 00:53:23] "GET /ScriptRepository/ HTTP/1.1" 200 4918
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 00:52:56
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:14467/
+Quit the server with CTRL-BREAK.
+

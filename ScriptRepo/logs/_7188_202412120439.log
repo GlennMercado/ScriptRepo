@@ -1,0 +1,14 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+December 11, 2024 - 19:43:11
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:22558/
+Quit the server with CTRL-BREAK.
+
+[11/Dec/2024 19:43:11] "GET /ScriptRepository/post/new/ HTTP/1.1" 302 0
+[11/Dec/2024 19:43:11] "GET /ScriptRepository/login/?next=/ScriptRepository/post/new/ HTTP/1.1" 200 5517
+[11/Dec/2024 19:43:15] "POST /ScriptRepository/login/?next=/ScriptRepository/post/new/ HTTP/1.1" 302 0
+[11/Dec/2024 19:43:15] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[11/Dec/2024 19:43:21] "GET /ScriptRepository/ HTTP/1.1" 200 4935
+[11/Dec/2024 20:18:18] "GET /ScriptRepository/ HTTP/1.1" 200 4935

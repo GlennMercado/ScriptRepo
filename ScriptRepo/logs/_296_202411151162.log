@@ -1,0 +1,67 @@
+Watching for file changes with StatReloader
+[14/Nov/2024 20:16:04] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:16:04] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 200 1478
+[14/Nov/2024 20:16:04] "GET /ScriptRepository/media/ironman_04V9LD3.jfif HTTP/1.1" 200 9789
+[14/Nov/2024 20:16:04] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 200 2773
+[14/Nov/2024 20:16:04] "GET /ScriptRepository/media/default.jpg HTTP/1.1" 200 9280
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 20:16:04
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:13234/
+Quit the server with CTRL-BREAK.
+
+[14/Nov/2024 20:16:38] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:16:42] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:16:43] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:16:44] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:16:44] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 20:16:16
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:13234/
+Quit the server with CTRL-BREAK.
+
+[14/Nov/2024 20:17:00] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:01] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:01] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:01] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:01] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:02] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:02] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:02] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:03] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:03] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:03] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:03] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:03] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:03] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:19] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:17:19] "GET /ScriptRepository/media/ironman_04V9LD3.jfif HTTP/1.1" 404 179
+[14/Nov/2024 20:31:52] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[14/Nov/2024 20:31:53] "GET /ScriptRepository/media/ironman_04V9LD3.jfif HTTP/1.1" 404 179
+[14/Nov/2024 20:31:55] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[14/Nov/2024 20:31:57] "GET /ScriptRepository/password-reset/ HTTP/1.1" 200 4852
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 20:16:52
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:13234/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 14, 2024 - 20:32:59
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:13234/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader

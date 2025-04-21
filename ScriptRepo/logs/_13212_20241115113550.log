@@ -1,0 +1,70 @@
+Watching for file changes with StatReloader
+[15/Nov/2024 06:35:52] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:35:52] "GET /ScriptRepository/media/ironman_04V9LD3.jfif HTTP/1.1" 304 0
+C:\inetpub\wwwroot\ScriptRepo\ScriptRepo\ScriptRepo\settings.py changed, reloading.
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2024 - 06:35:52
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:3602/
+Quit the server with CTRL-BREAK.
+
+[15/Nov/2024 06:39:03] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:08] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:09] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:09] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:09] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:09] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:09] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:10] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:10] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2024 - 06:38:54
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:3602/
+Quit the server with CTRL-BREAK.
+
+[15/Nov/2024 06:39:17] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:17] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:17] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:18] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:18] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:18] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:39:23] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[15/Nov/2024 06:39:31] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[15/Nov/2024 06:39:31] "GET /ScriptRepository/ HTTP/1.1" 200 8172
+[15/Nov/2024 06:39:34] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6168
+[15/Nov/2024 06:39:47] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[15/Nov/2024 06:40:30] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:40:30] "GET /ScriptRepository/media/ironman_04V9LD3.jfif HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 15, 2024 - 06:39:16
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:3602/
+Quit the server with CTRL-BREAK.
+
+Watching for file changes with StatReloader
+[15/Nov/2024 06:41:17] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 06:41:18] "GET /ScriptRepository/media/ironman_04V9LD3.jfif HTTP/1.1" 200 9789
+[15/Nov/2024 06:41:32] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[15/Nov/2024 06:41:42] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[15/Nov/2024 06:41:42] "GET /ScriptRepository/ HTTP/1.1" 200 8172
+[15/Nov/2024 06:42:08] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6168
+[15/Nov/2024 06:42:18] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[15/Nov/2024 06:42:18] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6351
+[15/Nov/2024 06:42:18] "GET /ScriptRepository/media/avatar_0c8prWL.png HTTP/1.1" 200 2423
+[15/Nov/2024 06:42:20] "GET /ScriptRepository/ HTTP/1.1" 200 8164
+[15/Nov/2024 06:42:21] "GET /ScriptRepository/media/avatar_0c8prWL.png HTTP/1.1" 304 0
+[15/Nov/2024 06:42:26] "GET /ScriptRepository/post/60/ HTTP/1.1" 200 5113
+[15/Nov/2024 06:42:27] "GET /ScriptRepository/post/60/update/ HTTP/1.1" 200 5559
+[15/Nov/2024 06:42:56] "POST /ScriptRepository/post/60/update/ HTTP/1.1" 302 0
+[15/Nov/2024 06:42:57] "GET /ScriptRepository/post/60/ HTTP/1.1" 200 5160
+[15/Nov/2024 06:42:59] "GET /ScriptRepository/ HTTP/1.1" 200 8211
+[15/Nov/2024 06:42:59] "GET /ScriptRepository/media/avatar_0c8prWL.png HTTP/1.1" 304 0
+[15/Nov/2024 06:45:35] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[15/Nov/2024 06:47:00] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164

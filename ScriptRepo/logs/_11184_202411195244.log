@@ -1,0 +1,124 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:24:06
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+[19/Nov/2024 00:24:08] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 27
+[19/Nov/2024 00:24:18] "GET /ScriptRepository/about/ HTTP/1.1" 200 132
+[19/Nov/2024 00:33:30] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 27
+[19/Nov/2024 00:33:39] "GET /ScriptRepository/about/ HTTP/1.1" 200 132
+[19/Nov/2024 00:34:25] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 27
+[19/Nov/2024 00:34:34] "GET /ScriptRepository/about/ HTTP/1.1" 200 132
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:39:02
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:39:05
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:40:49
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:44:09
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:44:14
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+[19/Nov/2024 00:45:47] "GET /ScriptRepository/ HTTP/1.1" 200 5595
+[19/Nov/2024 00:45:47] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 304 0
+[19/Nov/2024 00:45:49] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[19/Nov/2024 00:45:51] "GET /ScriptRepository/password-reset/ HTTP/1.1" 200 4852
+[19/Nov/2024 00:46:31] "GET /ScriptRepository/ HTTP/1.1" 200 5595
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:47:01
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+[19/Nov/2024 00:47:08] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 27
+[19/Nov/2024 00:47:24] "GET /ScriptRepository/about/ HTTP/1.1" 200 132
+[19/Nov/2024 00:48:28] "GET /ScriptRepository/ HTTP/1.1" 200 5595
+[19/Nov/2024 00:48:35] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[19/Nov/2024 00:48:45] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[19/Nov/2024 00:48:45] "GET /ScriptRepository/ HTTP/1.1" 200 5723
+[19/Nov/2024 00:48:50] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[19/Nov/2024 00:48:55] "POST /ScriptRepository/post/new/ HTTP/1.1" 302 0
+[19/Nov/2024 00:48:56] "GET /ScriptRepository/post/64/ HTTP/1.1" 200 5063
+[19/Nov/2024 00:48:57] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 00:49:06] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6189
+[19/Nov/2024 00:49:13] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 00:49:21] "GET /ScriptRepository/about/ HTTP/1.1" 200 113
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:50:44
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+[19/Nov/2024 00:50:54] "GET /ScriptRepository/about/ HTTP/1.1" 200 132
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:52:59
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:53:04
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 00:53:21
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:10769/
+Quit the server with CTRL-BREAK.
+
+[19/Nov/2024 00:53:57] "GET /ScriptRepository/about/ HTTP/1.1" 200 4152
+[19/Nov/2024 00:54:11] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 27
+[19/Nov/2024 00:54:19] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 00:54:21] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 00:54:24] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6189
+[19/Nov/2024 00:54:27] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[19/Nov/2024 00:54:28] "GET /ScriptRepository/ HTTP/1.1" 200 6389
+[19/Nov/2024 00:54:29] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[19/Nov/2024 00:54:31] "GET /ScriptRepository/password-reset/ HTTP/1.1" 200 4852
+[19/Nov/2024 00:54:38] "POST /ScriptRepository/password-reset/ HTTP/1.1" 302 0
+[19/Nov/2024 00:54:39] "GET /ScriptRepository/password-reset/done/ HTTP/1.1" 200 4125

@@ -1,0 +1,163 @@
+[17/Nov/2024 21:22:58] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[17/Nov/2024 21:22:59] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[17/Nov/2024 21:22:59] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 200 2773
+[17/Nov/2024 21:23:03] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[17/Nov/2024 21:23:03] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[17/Nov/2024 21:23:05] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[17/Nov/2024 21:23:15] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[17/Nov/2024 21:23:15] "GET /ScriptRepository/ HTTP/1.1" 200 4933
+[17/Nov/2024 21:23:15] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[17/Nov/2024 21:23:17] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6177
+[17/Nov/2024 21:23:17] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[17/Nov/2024 21:23:24] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[17/Nov/2024 21:23:24] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6396
+[17/Nov/2024 21:23:24] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:23:27] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:23:27] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2024 - 21:22:58
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:20786/
+Quit the server with CTRL-BREAK.
+
+[17/Nov/2024 21:23:57] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:23:57] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:23:58] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:23:59] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:23:59] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:23:59] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:23:59] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:23:59] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:00] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:00] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:00] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:00] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:00] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:24:00] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:01] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:01] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:01] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:24:01] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:02] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:03] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:03] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:24:04] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:04] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:04] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:24:06] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:07] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:24:07] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:07] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:07] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:07] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:07] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:24:28] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:24:29] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:29] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 404 179
+[17/Nov/2024 21:24:31] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[17/Nov/2024 21:24:32] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 404 179
+[17/Nov/2024 21:24:36] "GET /ScriptRepository/admin/ HTTP/1.1" 302 0
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 200 4368
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/static/admin/css/nav_sidebar.css HTTP/1.1" 404 179
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/static/admin/css/dark_mode.css HTTP/1.1" 404 179
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/static/admin/js/theme.js HTTP/1.1" 404 179
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/static/admin/js/nav_sidebar.js HTTP/1.1" 404 179
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/static/admin/css/responsive.css HTTP/1.1" 404 179
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/static/admin/css/base.css HTTP/1.1" 404 179
+[17/Nov/2024 21:24:37] "GET /ScriptRepository/static/admin/css/login.css HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2024 - 21:23:56
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:20786/
+Quit the server with CTRL-BREAK.
+
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/admin/login/?next=/ScriptRepository/admin/ HTTP/1.1" 200 4368
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/static/admin/css/dark_mode.css HTTP/1.1" 200 2804
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/static/admin/css/responsive.css HTTP/1.1" 200 17972
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/static/admin/css/nav_sidebar.css HTTP/1.1" 200 2810
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/static/admin/js/nav_sidebar.js HTTP/1.1" 200 3063
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/static/admin/css/login.css HTTP/1.1" 200 951
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/static/admin/css/base.css HTTP/1.1" 200 22092
+[17/Nov/2024 21:25:15] "GET /ScriptRepository/static/admin/js/theme.js HTTP/1.1" 200 1653
+[17/Nov/2024 21:25:33] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:25:33] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 200 2773
+[17/Nov/2024 21:25:33] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 200 9789
+[17/Nov/2024 21:25:36] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:25:37] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:25:37] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:25:37] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:25:39] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:25:39] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:25:39] "GET /ScriptRepository/ HTTP/1.1" 200 4815
+[17/Nov/2024 21:26:15] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[17/Nov/2024 21:26:26] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[17/Nov/2024 21:26:26] "GET /ScriptRepository/ HTTP/1.1" 200 4943
+[17/Nov/2024 21:26:26] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 304 0
+[17/Nov/2024 21:26:28] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[17/Nov/2024 21:26:32] "POST /ScriptRepository/post/new/ HTTP/1.1" 302 0
+[17/Nov/2024 21:26:32] "GET /ScriptRepository/post/62/ HTTP/1.1" 200 5061
+[17/Nov/2024 21:26:34] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:26:38] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:26:39] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:26:39] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:26:40] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:26:42] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6207
+[17/Nov/2024 21:26:45] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:26:45] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 304 0
+[17/Nov/2024 21:27:07] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 304 0
+[17/Nov/2024 21:27:10] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:27:10] "GET /ScriptRepository/media/profile_pics/ironman_lWJhFX2.jfif HTTP/1.1" 304 0
+[17/Nov/2024 21:27:11] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:27:13] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6207
+[17/Nov/2024 21:27:14] "GET /ScriptRepository/ HTTP/1.1" 200 5735
+[17/Nov/2024 21:27:16] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6207
+[17/Nov/2024 21:27:26] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[17/Nov/2024 21:27:26] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6378
+[17/Nov/2024 21:27:26] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 200 120550
+[17/Nov/2024 21:27:30] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 304 0
+[17/Nov/2024 21:27:34] "GET /ScriptRepository/ HTTP/1.1" 200 5723
+[17/Nov/2024 21:27:34] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 304 0
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2024 - 21:25:13
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:20786/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2024 - 21:27:58
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:20786/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2024 - 21:29:01
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:20786/
+Quit the server with CTRL-BREAK.
+
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 17, 2024 - 21:29:12
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:20786/
+Quit the server with CTRL-BREAK.
+
+[17/Nov/2024 21:29:25] "GET /ScriptRepository/ HTTP/1.1" 200 5723
+[17/Nov/2024 21:29:25] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 304 0
+[17/Nov/2024 21:29:26] "GET /ScriptRepository/ HTTP/1.1" 200 5723
+[17/Nov/2024 21:29:26] "GET /ScriptRepository/ HTTP/1.1" 200 5723
+[17/Nov/2024 21:30:42] "GET /ScriptRepository/ HTTP/1.1" 200 5723
+[17/Nov/2024 21:30:42] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 304 0
+[17/Nov/2024 21:30:44] "GET /ScriptRepository/ HTTP/1.1" 200 5723
+[17/Nov/2024 21:30:46] "GET /ScriptRepository/ HTTP/1.1" 200 5723

@@ -1,0 +1,12 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 03:41:54
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16756/
+Quit the server with CTRL-BREAK.
+
+[19/Nov/2024 03:41:57] "GET /ScriptRepository/about/ HTTP/1.1" 200 132
+[19/Nov/2024 03:42:08] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 115
+[19/Nov/2024 03:42:22] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 27
+[19/Nov/2024 03:47:25] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 200 27

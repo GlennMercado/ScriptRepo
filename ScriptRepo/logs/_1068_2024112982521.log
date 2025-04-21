@@ -1,0 +1,33 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 29, 2024 - 03:25:23
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:16933/
+Quit the server with CTRL-BREAK.
+
+[29/Nov/2024 03:25:23] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[29/Nov/2024 03:25:29] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[29/Nov/2024 03:25:31] "GET /ScriptRepository/about/ HTTP/1.1" 200 4024
+[29/Nov/2024 03:25:33] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[29/Nov/2024 03:25:35] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[29/Nov/2024 03:25:37] "GET /ScriptRepository/register/ HTTP/1.1" 200 6515
+[29/Nov/2024 03:25:39] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[29/Nov/2024 03:36:07] "GET /ScriptRepository/ HTTP/1.1" 200 4019
+[29/Nov/2024 03:36:13] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[29/Nov/2024 03:36:27] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[29/Nov/2024 03:36:27] "GET /ScriptRepository/ HTTP/1.1" 200 4147
+[29/Nov/2024 03:36:27] "POST /ScriptRepository/login/ HTTP/1.1" 403 1019
+[29/Nov/2024 03:36:45] "POST /ScriptRepository/login/ HTTP/1.1" 403 1019
+[29/Nov/2024 03:37:24] "POST /ScriptRepository/login/ HTTP/1.1" 403 1019
+[29/Nov/2024 03:37:31] "GET /ScriptRepository/ HTTP/1.1" 200 4147
+[29/Nov/2024 03:37:35] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6165
+[29/Nov/2024 03:37:36] "GET /ScriptRepository/media/default.jpg HTTP/1.1" 200 9280
+[29/Nov/2024 03:37:38] "GET /ScriptRepository/post/new/ HTTP/1.1" 200 5499
+[29/Nov/2024 03:37:56] "POST /ScriptRepository/post/new/ HTTP/1.1" 302 0
+[29/Nov/2024 03:37:57] "GET /ScriptRepository/post/65/ HTTP/1.1" 200 5039
+[29/Nov/2024 03:38:02] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[29/Nov/2024 03:38:04] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[29/Nov/2024 03:38:14] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[29/Nov/2024 03:38:14] "GET /ScriptRepository/ HTTP/1.1" 200 4917
+[29/Nov/2024 03:38:18] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164

@@ -1,0 +1,22 @@
+Watching for file changes with StatReloader
+[13/Nov/2024 22:21:31] "GET /ScriptRepository/ HTTP/1.1" 200 8063
+[13/Nov/2024 22:21:35] "GET /ScriptRepository/post/51/ HTTP/1.1" 200 5045
+[13/Nov/2024 22:21:36] "GET /ScriptRepository/post/51/delete/ HTTP/1.1" 200 4799
+[13/Nov/2024 22:21:38] "POST /ScriptRepository/post/51/delete/ HTTP/1.1" 302 0
+[13/Nov/2024 22:21:38] "GET /ScriptRepository HTTP/1.1" 301 0
+[13/Nov/2024 22:21:38] "GET /ScriptRepository/ HTTP/1.1" 200 7287
+[13/Nov/2024 22:21:41] "GET /ScriptRepository/post/50/ HTTP/1.1" 200 5041
+[13/Nov/2024 22:21:42] "GET /ScriptRepository/post/50/delete/ HTTP/1.1" 200 4798
+[13/Nov/2024 22:21:43] "POST /ScriptRepository/post/50/delete/ HTTP/1.1" 302 0
+[13/Nov/2024 22:21:44] "GET /ScriptRepository HTTP/1.1" 301 0
+[13/Nov/2024 22:21:44] "GET /ScriptRepository/ HTTP/1.1" 200 6515
+[13/Nov/2024 22:21:45] "GET /ScriptRepository/post/49/ HTTP/1.1" 200 5057
+[13/Nov/2024 22:21:46] "GET /ScriptRepository/post/49/delete/ HTTP/1.1" 200 4802
+[13/Nov/2024 22:21:47] "POST /ScriptRepository/post/49/delete/ HTTP/1.1" 302 0
+[13/Nov/2024 22:21:48] "GET /ScriptRepository HTTP/1.1" 301 0
+[13/Nov/2024 22:21:48] "GET /ScriptRepository/ HTTP/1.1" 200 5727
+[13/Nov/2024 22:21:50] "GET /ScriptRepository/post/47/ HTTP/1.1" 200 5061
+[13/Nov/2024 22:21:51] "GET /ScriptRepository/post/47/delete/ HTTP/1.1" 200 4802
+[13/Nov/2024 22:21:52] "POST /ScriptRepository/post/47/delete/ HTTP/1.1" 302 0
+[13/Nov/2024 22:21:52] "GET /ScriptRepository HTTP/1.1" 301 0
+[13/Nov/2024 22:21:53] "GET /ScriptRepository/ HTTP/1.1" 200 4935

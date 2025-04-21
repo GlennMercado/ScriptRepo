@@ -1,0 +1,64 @@
+[16/Nov/2024 09:50:12] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[16/Nov/2024 09:50:19] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 09:50:20] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[16/Nov/2024 09:50:21] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 09:50:22] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2024 - 09:50:11
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:28913/
+Quit the server with CTRL-BREAK.
+
+[16/Nov/2024 09:52:49] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 09:52:49] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[16/Nov/2024 09:52:52] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2024 - 09:52:27
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:28913/
+Quit the server with CTRL-BREAK.
+
+[16/Nov/2024 09:55:33] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 09:55:34] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[16/Nov/2024 09:55:42] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2024 - 09:55:29
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:28913/
+Quit the server with CTRL-BREAK.
+
+[16/Nov/2024 09:57:43] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 09:57:43] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[16/Nov/2024 09:57:44] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 09:57:44] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 09:57:45] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2024 - 09:57:39
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:28913/
+Quit the server with CTRL-BREAK.
+
+[16/Nov/2024 10:06:20] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 10:06:20] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[16/Nov/2024 10:06:21] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 10:06:22] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+[16/Nov/2024 10:06:23] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 10:06:23] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 10:06:23] "GET /ScriptRepository/ HTTP/1.1" 200 4805
+[16/Nov/2024 10:06:23] "GET /ScriptRepository/media/profile_pics/avatar.png HTTP/1.1" 404 179
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 16, 2024 - 10:06:14
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:28913/
+Quit the server with CTRL-BREAK.
+

@@ -1,0 +1,9 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 25, 2024 - 05:51:47
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:31145/
+Quit the server with CTRL-BREAK.
+
+[25/Nov/2024 05:51:47] "GET /ScriptRepository/ HTTP/1.1" 200 6389

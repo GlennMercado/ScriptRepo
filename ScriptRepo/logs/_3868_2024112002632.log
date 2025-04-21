@@ -1,0 +1,43 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+November 19, 2024 - 19:26:33
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:5241/
+Quit the server with CTRL-BREAK.
+
+[19/Nov/2024 19:26:34] "GET /ScriptRepository/ HTTP/1.1" 200 6389
+[19/Nov/2024 19:26:34] "GET /ScriptRepository/media/profile_pics/BackGround.png HTTP/1.1" 304 0
+[19/Nov/2024 19:26:34] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 304 0
+[19/Nov/2024 19:26:34] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 304 0
+[19/Nov/2024 19:29:29] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[19/Nov/2024 19:29:36] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[19/Nov/2024 19:29:36] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 19:29:38] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6211
+[19/Nov/2024 19:29:49] "POST /ScriptRepository/profile/ HTTP/1.1" 302 0
+[19/Nov/2024 19:29:49] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6414
+[19/Nov/2024 19:29:56] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164
+[19/Nov/2024 19:29:58] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[19/Nov/2024 19:29:59] "GET /ScriptRepository/password-reset/ HTTP/1.1" 200 4852
+[19/Nov/2024 19:30:04] "POST /ScriptRepository/password-reset/ HTTP/1.1" 302 0
+[19/Nov/2024 19:30:05] "GET /ScriptRepository/password-reset/done/ HTTP/1.1" 200 4125
+[19/Nov/2024 19:30:13] "GET /ScriptRepository/check_smtp/ HTTP/1.1" 404 179
+[19/Nov/2024 19:30:20] "GET /ScriptRepository/check_smtpcon/ HTTP/1.1" 200 27
+[19/Nov/2024 19:31:03] "GET /ScriptRepository/password-reset-confirm/MTQ/cgr7i2-02b9241a100ed929ce2dc16aaa7e3413/ HTTP/1.1" 302 0
+[19/Nov/2024 19:31:03] "GET /ScriptRepository/password-reset-confirm/MTQ/set-password/ HTTP/1.1" 200 5565
+[19/Nov/2024 19:31:03] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 200 1478
+[19/Nov/2024 19:31:03] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 200 2773
+[19/Nov/2024 19:31:23] "POST /ScriptRepository/password-reset-confirm/MTQ/set-password/ HTTP/1.1" 302 0
+[19/Nov/2024 19:31:24] "GET /ScriptRepository/password-reset-complete HTTP/1.1" 200 4141
+[19/Nov/2024 19:31:29] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[19/Nov/2024 19:31:36] "GET /ScriptRepository/login/ HTTP/1.1" 200 5517
+[19/Nov/2024 19:31:44] "POST /ScriptRepository/login/ HTTP/1.1" 200 5708
+[19/Nov/2024 19:31:50] "POST /ScriptRepository/login/ HTTP/1.1" 302 0
+[19/Nov/2024 19:31:50] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 19:31:55] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6225
+[19/Nov/2024 19:32:03] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 19:32:05] "GET /ScriptRepository/profile/ HTTP/1.1" 200 6225
+[19/Nov/2024 19:32:07] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 19:32:08] "GET /ScriptRepository/about/ HTTP/1.1" 200 4152
+[19/Nov/2024 19:32:10] "GET /ScriptRepository/ HTTP/1.1" 200 6517
+[19/Nov/2024 19:32:11] "GET /ScriptRepository/logout/ HTTP/1.1" 200 4164

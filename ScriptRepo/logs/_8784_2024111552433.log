@@ -1,0 +1,5 @@
+Watching for file changes with StatReloader
+Not Found: /ScriptRepository/polls/
+[15/Nov/2024 00:24:35] "GET /ScriptRepository/polls/ HTTP/1.1" 404 4974
+[15/Nov/2024 00:24:35] "GET /ScriptRepository/ HTTP/1.1" 200 8044
+[15/Nov/2024 00:24:36] "GET /ScriptRepository/media/ironman_04V9LD3.jfif HTTP/1.1" 200 9789

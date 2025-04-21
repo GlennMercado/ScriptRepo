@@ -1,0 +1,13 @@
+Performing system checks...
+
+System check identified no issues (0 silenced).
+January 24, 2025 - 02:25:48
+Django version 4.2.16, using settings 'ScriptRepo.settings'
+Starting development server at http://127.0.0.1:11261/
+Quit the server with CTRL-BREAK.
+
+[24/Jan/2025 02:25:48] "GET /ScriptRepository/ HTTP/1.1" 200 46324
+[24/Jan/2025 02:25:49] "GET /ScriptRepository/static/blog/main.css HTTP/1.1" 304 0
+[24/Jan/2025 02:25:49] "GET /ScriptRepository/media/default.jpg HTTP/1.1" 304 0
+[24/Jan/2025 02:25:49] "GET /ScriptRepository/static/blog/logo.png HTTP/1.1" 304 0
+[24/Jan/2025 02:35:52] "GET /ScriptRepository/ HTTP/1.1" 200 46324

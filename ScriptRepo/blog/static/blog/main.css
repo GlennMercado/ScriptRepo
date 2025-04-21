@@ -1,0 +1,249 @@
+body {
+    background: #fafafa;
+    margin-top: 5rem;
+  }
+  
+  ul {
+    margin: 0;
+  }
+  
+  
+.navbar{
+  background-color: #36454F;
+}
+
+  .site-header .navbar-nav .nav-link {
+    color: #cbd5db;
+  }
+  
+  .site-header .navbar-nav .nav-link:hover {
+    color: #ffffff;
+  }
+  
+  .site-header .navbar-nav .nav-link.active {
+    font-weight: 500;
+  }
+  
+  .content-section {
+    background: #ffffff;
+    padding: 10px 20px;
+    border-radius: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .article-title {
+    color: #444444;
+  }
+  
+  a.article-title:hover {
+    color: #428bca;
+    text-decoration: none;
+  }
+  
+  .article-content {
+    white-space: pre-line;
+  }
+  
+  .article-metadata {
+    padding-bottom: 1px;
+    margin-bottom: 4px;
+    border-bottom: 1px solid #c7c7c7
+  }
+  
+  .article-metadata a:hover {
+    color: #333;
+    text-decoration: none;
+  }
+  
+  .article-svg {
+    width: 25px;
+    height: 25px;
+    vertical-align: middle;
+  }
+  
+  .account-img {
+    height: 125px;
+    width: 125px;
+    margin-right: 20px;
+    margin-bottom: 16px;
+  }
+  
+  .account-heading {
+    font-size: 2.5rem;
+  }
+
+  .scrollableP{
+    max-height: 300px;
+    overflow-y: auto;
+    background-color: #2d2d2d;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+.post-text-box {
+  border-radius: 10px;
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.post-text-box:hover {
+  transform: scale(1.02); /* Subtle growth */
+}
+
+.profile-circle{
+  width: 35px;
+  height: 35px;
+  border-radius: 50%;
+  margin-right: 5px;
+}
+
+@media (max-width: 767.98px) {
+  .navbar-nav .nav-link img {
+      width: 30px;
+      height: 30px;
+      margin-right: 5px;
+  }
+}
+
+.profile-menu-content {
+  display: none;
+  position: absolute;
+  right: 20px;
+  top: 60px;
+  background-color: #ffffff;
+  border-radius: 5px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  z-index: 1000;
+  padding: 10px;
+  min-width: 150px;
+}
+
+.profile-menu-item {
+  display: block;
+  padding: 8px 12px;
+  color: #36454F;
+  text-decoration: none;
+  border-radius: 4px;
+  transition: background-color 0.3s ease;
+}
+
+.profile-menu-item:hover {
+  background-color: #f0f0f0;
+}
+
+/* Show menu on hover or click */
+.nav-item:hover .profile-menu-content,
+.nav-item:focus-within .profile-menu-content {
+  display: block;
+}
+
+/* Search bar */
+.suggestions-dropdown {
+  position: absolute;
+  background-color: white;
+  border: 1px solid #ddd;
+  max-height: 200px;
+  overflow-y: auto;
+  z-index: 1000;
+  display: none;
+  width: 205px;
+  top: 100%;
+  left: 17px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.suggestions-dropdown a {
+  display: block;
+  padding: 10px;
+  text-decoration: none;
+  color: #333;
+}
+
+.suggestions-dropdown a:hover {
+  background-color: #f8f9fa;
+}
+
+/* Skeleton loader */
+#skeleton-loader {
+  opacity: 1;
+  transition: opacity 0.5s ease-in-out;
+}
+
+#skeleton-loader.hidden {
+  opacity: 0;
+}
+
+.skeleton-circle {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: #e0e0e0;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+.skeleton-line {
+  background-color: #e0e0e0;
+  border-radius: 4px;
+  animation: pulse 1.5s infinite ease-in-out;
+}
+
+@keyframes pulse {
+  0% {
+      opacity: 0.6;
+  }
+  50% {
+      opacity: 1;
+  }
+  100% {
+      opacity: 0.6;
+  }
+}
+
+/* Profile */
+.profile-header {
+  position: relative;
+  width: 100vw; /* Full width of the viewport */
+  max-height: 600px; /* Adjust height as needed */
+  margin-top: -30px; /* Ensure no margin on top */
+  margin-left: -50vw; /* Offset to account for default body padding/margin */
+  left: 50%; /* Center the header */
+}
+
+.cover-photo {
+  width: 100%; /* Full width of the container */
+  height: 100%; /* Full height of the container */
+}
+
+.profile-picture-container {
+  position: absolute;
+  bottom: -65px; /* Adjust this value to position the profile picture */
+  left: 90px; /* Adjust this value to position the profile picture */
+  display: flex; /* Use flexbox to align items horizontally */
+  align-items: center; /* Vertically center items */
+}
+
+.account-img {
+  width: 150px; /* Adjust size as needed */
+  height: 150px; /* Adjust size as needed */
+  object-fit: cover;
+}
+
+.media-body {
+  margin-top: -20px; /* Remove default margin */
+}
+
+.account-heading {
+  color: white; /* Make the username text white */
+  margin: 0; /* Remove default margin */
+  font-size: 3rem; /* Adjust font size as needed */
+}
+
+.text-secondary {
+  color: white !important; /* Make the email text white */
+  margin-top: -7px; /* Remove default margin */
+}
+
+.current-page {
+  background-color: #d3d3d3; /* Slightly darker background */
+  border-color: #d3d3d3; /* Match border color to background */
+  color: #000; /* Optional: Change text color for better contrast */
+}
